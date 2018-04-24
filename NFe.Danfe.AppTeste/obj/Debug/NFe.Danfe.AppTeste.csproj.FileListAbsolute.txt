@@ -1,0 +1,86 @@
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\Dlls\FastReport.Bars.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\Dlls\FastReport.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\Dlls\FastReport.Editor.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.AppTeste.exe
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.AppTeste.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Classes.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.Base.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.Fast.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Utils.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\FastReport.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\FastReport.Bars.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\FastReport.Editor.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Classes.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.Base.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.Fast.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Utils.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.csprojResolveAssemblyReference.cache
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\MainWindow.g.cs
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\App.g.cs
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste_MarkupCompile.cache
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste_MarkupCompile.lref
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\MainWindow.baml
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.g.resources
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.Properties.Resources.resources
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.csproj.GenerateResource.Cache
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.exe
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\Dlls\FastReport.Bars.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\Dlls\FastReport.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\Dlls\FastReport.Editor.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.AppTeste.exe
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.AppTeste.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Classes.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.Base.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.Fast.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Utils.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\FastReport.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\FastReport.Bars.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\FastReport.Editor.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Classes.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.Base.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.Fast.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Utils.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.csprojResolveAssemblyReference.cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\MainWindow.g.cs
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\App.g.cs
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste_MarkupCompile.cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste_MarkupCompile.lref
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\MainWindow.baml
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.g.resources
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.Properties.Resources.resources
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.csproj.GenerateResource.Cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.csproj.CoreCompileInputs.cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.exe
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\Dlls\FastReport.Bars.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\Dlls\FastReport.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\Dlls\FastReport.Editor.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.AppTeste.exe
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.AppTeste.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Classes.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.Base.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.Fast.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Utils.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\FastReport.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\FastReport.Bars.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\FastReport.Editor.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Classes.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.Base.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Danfe.Fast.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\bin\Debug\NFe.Utils.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.csprojResolveAssemblyReference.cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\MainWindow.g.cs
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\App.g.cs
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste_MarkupCompile.cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste_MarkupCompile.lref
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\MainWindow.baml
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.g.resources
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.Properties.Resources.resources
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.csproj.GenerateResource.Cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.csproj.CoreCompileInputs.cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.exe
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.AppTeste\obj\Debug\NFe.Danfe.AppTeste.pdb

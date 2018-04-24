@@ -1,0 +1,16 @@
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\bin\Release\NFe.Danfe.Base.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\bin\Release\NFe.Danfe.Base.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\obj\Release\NFe.Danfe.Base.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\obj\Release\NFe.Danfe.Base.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\bin\Release\NFe.Danfe.Base.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\bin\Release\NFe.Danfe.Base.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\obj\Release\NFe.Danfe.Base.csprojResolveAssemblyReference.cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\obj\Release\NFe.Danfe.Base.csproj.CoreCompileInputs.cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\obj\Release\NFe.Danfe.Base.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\obj\Release\NFe.Danfe.Base.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\bin\Release\NFe.Danfe.Base.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\bin\Release\NFe.Danfe.Base.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\obj\Release\NFe.Danfe.Base.csprojResolveAssemblyReference.cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\obj\Release\NFe.Danfe.Base.csproj.CoreCompileInputs.cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\obj\Release\NFe.Danfe.Base.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Base\obj\Release\NFe.Danfe.Base.pdb

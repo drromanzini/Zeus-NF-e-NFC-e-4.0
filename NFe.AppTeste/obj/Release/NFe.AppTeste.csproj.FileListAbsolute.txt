@@ -1,0 +1,401 @@
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\atuCadEmiDFe_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\cabecMsg_v1.02.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\cadEmiDFe_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\cancNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\CCe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\confRecebto_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consCad_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consDPEC_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consNFeDest_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consReciNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consReciNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consSitNFe_v2.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consSitNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consStatServ_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consStatServ_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\distDFeInt_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\downloadNFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e110110_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e110111_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e110140_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e210200_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e210210_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e210220_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e210240_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envCancelPProrrogNFe_v1.0.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envCCe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envConfRecebto_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envDPEC_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envEPEC_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envEventoCancNFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envEvento_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envFiscoNfe_v1.0.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\enviNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\enviNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envPProrrogNFe_v1.0.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\EPEC_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\eventoCancNFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\eventoEPEC_v0.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\inutNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\inutNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\LeiauteCadastroEmissorDFe_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteCancNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteCCe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConfRecebto_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsNFeDest_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsSitNFe_v2.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsSitNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsStatServ_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsStatServ_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsultaCadastro_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsultaCadastro_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteDownloadNFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteDPEC_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteEPEC_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteEventoCancNFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteEvento_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteInutNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteInutNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteSRE_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\nfe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\nfe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procCancNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procCCeNFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procConfRecebtoNFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procEPEC_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procEventoCancNFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procEventoNFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procEventoNFe_v99.99.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procInutNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procInutNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\resEvento_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\resNFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retAtuCadEmiDFe_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retCancNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsCad_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsDPEC_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retconsNFeDest_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsReciNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsReciNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsSitNFe_v2.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsSitNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsStatServ_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsStatServ_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retDistDFeInt_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retDownloadNFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retDPEC_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvCancelPProrrogNFe_v1.0.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvCCe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvConfRecebto_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvEPEC_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvEventoCancNFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvEvento_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvFiscoNFe_v1.0.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnviNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnviNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEventoEPEC_v0.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retInutNFe_v2.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retInutNFe_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retPProrrogNFe_v1.0.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\tiposBasico_v1.03.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\tiposBasico_v3.10.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\tiposDistDFe_v1.00.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\xmldsig-core-schema_v1.01.xsd
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.AppTeste.exe.config
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.AppTeste.exe
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.AppTeste.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Classes.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Servicos.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Utils.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Wsdl.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Classes.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Servicos.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Utils.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Wsdl.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.csprojResolveAssemblyReference.cache
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\InputBoxWindow.baml
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\App.baml
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\InputBoxWindow.g.cs
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\MainWindow.g.cs
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\App.g.cs
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste_MarkupCompile.cache
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste_MarkupCompile.lref
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\MainWindow.baml
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.g.resources
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.Properties.Resources.resources
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.csproj.GenerateResource.Cache
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.exe
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\atuCadEmiDFe_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\cabecMsg_v1.02.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\cadEmiDFe_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\cancNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\CCe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\confRecebto_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consCad_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consDPEC_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consNFeDest_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consReciNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consReciNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consSitNFe_v2.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consSitNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consStatServ_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consStatServ_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\distDFeInt_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\downloadNFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e110110_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e110111_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e110140_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e210200_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e210210_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e210220_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e210240_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envCancelPProrrogNFe_v1.0.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envCCe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envConfRecebto_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envDPEC_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envEPEC_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envEventoCancNFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envEvento_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envFiscoNfe_v1.0.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\enviNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\enviNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envPProrrogNFe_v1.0.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\EPEC_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\eventoCancNFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\eventoEPEC_v0.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\inutNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\inutNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\LeiauteCadastroEmissorDFe_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteCancNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteCCe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConfRecebto_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsNFeDest_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsSitNFe_v2.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsSitNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsStatServ_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsStatServ_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsultaCadastro_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsultaCadastro_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteDownloadNFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteDPEC_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteEPEC_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteEventoCancNFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteEvento_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteInutNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteInutNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteSRE_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\nfe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\nfe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procCancNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procCCeNFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procConfRecebtoNFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procEPEC_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procEventoCancNFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procEventoNFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procEventoNFe_v99.99.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procInutNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procInutNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\resEvento_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\resNFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retAtuCadEmiDFe_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retCancNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsCad_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsDPEC_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retconsNFeDest_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsReciNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsReciNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsSitNFe_v2.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsSitNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsStatServ_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsStatServ_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retDistDFeInt_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retDownloadNFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retDPEC_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvCancelPProrrogNFe_v1.0.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvCCe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvConfRecebto_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvEPEC_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvEventoCancNFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvEvento_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvFiscoNFe_v1.0.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnviNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnviNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEventoEPEC_v0.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retInutNFe_v2.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retInutNFe_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retPProrrogNFe_v1.0.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\tiposBasico_v1.03.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\tiposBasico_v3.10.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\tiposDistDFe_v1.00.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\xmldsig-core-schema_v1.01.xsd
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.AppTeste.exe.config
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.AppTeste.exe
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.AppTeste.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Classes.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Servicos.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Utils.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Wsdl.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Classes.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Servicos.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Utils.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Wsdl.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.csprojResolveAssemblyReference.cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\InputBoxWindow.baml
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\App.baml
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\InputBoxWindow.g.cs
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\MainWindow.g.cs
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\App.g.cs
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste_MarkupCompile.cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste_MarkupCompile.lref
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\MainWindow.baml
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.g.resources
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.Properties.Resources.resources
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.csproj.GenerateResource.Cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.csproj.CoreCompileInputs.cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.exe
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\atuCadEmiDFe_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\cabecMsg_v1.02.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\cadEmiDFe_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\cancNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\CCe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\confRecebto_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consCad_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consDPEC_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consNFeDest_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consReciNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consReciNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consSitNFe_v2.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consSitNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consStatServ_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\consStatServ_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\distDFeInt_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\downloadNFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e110110_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e110111_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e110140_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e210200_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e210210_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e210220_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\e210240_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envCancelPProrrogNFe_v1.0.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envCCe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envConfRecebto_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envDPEC_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envEPEC_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envEventoCancNFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envEvento_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envFiscoNfe_v1.0.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\enviNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\enviNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\envPProrrogNFe_v1.0.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\EPEC_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\eventoCancNFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\eventoEPEC_v0.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\inutNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\inutNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\LeiauteCadastroEmissorDFe_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteCancNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteCCe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConfRecebto_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsNFeDest_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsSitNFe_v2.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsSitNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsStatServ_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsStatServ_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsultaCadastro_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteConsultaCadastro_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteDownloadNFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteDPEC_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteEPEC_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteEventoCancNFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteEvento_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteInutNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteInutNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\leiauteSRE_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\nfe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\nfe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procCancNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procCCeNFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procConfRecebtoNFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procEPEC_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procEventoCancNFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procEventoNFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procEventoNFe_v99.99.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procInutNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procInutNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\procNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\resEvento_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\resNFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retAtuCadEmiDFe_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retCancNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsCad_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsDPEC_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retconsNFeDest_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsReciNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsReciNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsSitNFe_v2.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsSitNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsStatServ_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retConsStatServ_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retDistDFeInt_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retDownloadNFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retDPEC_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvCancelPProrrogNFe_v1.0.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvCCe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvConfRecebto_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvEPEC_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvEventoCancNFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvEvento_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnvFiscoNFe_v1.0.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnviNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEnviNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retEventoEPEC_v0.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retInutNFe_v2.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retInutNFe_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\retPProrrogNFe_v1.0.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\tiposBasico_v1.03.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\tiposBasico_v3.10.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\tiposDistDFe_v1.00.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\Schemas\xmldsig-core-schema_v1.01.xsd
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.AppTeste.exe.config
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.AppTeste.exe
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.AppTeste.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Classes.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Servicos.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Utils.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Wsdl.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Classes.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Servicos.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Utils.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\bin\Release\NFe.Wsdl.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.csprojResolveAssemblyReference.cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\InputBoxWindow.baml
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\App.baml
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\InputBoxWindow.g.cs
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\MainWindow.g.cs
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\App.g.cs
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste_MarkupCompile.cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste_MarkupCompile.lref
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\MainWindow.baml
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.g.resources
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.Properties.Resources.resources
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.csproj.GenerateResource.Cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.csproj.CoreCompileInputs.cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.exe
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.AppTeste\obj\Release\NFe.AppTeste.pdb

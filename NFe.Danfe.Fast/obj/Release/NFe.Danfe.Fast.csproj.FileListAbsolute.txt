@@ -1,0 +1,62 @@
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\Dlls\FastReport.Bars.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\Dlls\FastReport.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\Dlls\FastReport.Editor.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Danfe.Fast.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Danfe.Fast.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\FastReport.Bars.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\FastReport.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\FastReport.Editor.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Classes.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Danfe.Base.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Utils.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Classes.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Danfe.Base.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Utils.pdb
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.csprojResolveAssemblyReference.cache
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.g.resources
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.Properties.Resources.resources
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.csproj.GenerateResource.Cache
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.dll
+C:\Users\wckro\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\Dlls\FastReport.Bars.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\Dlls\FastReport.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\Dlls\FastReport.Editor.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Danfe.Fast.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Danfe.Fast.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\FastReport.Bars.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\FastReport.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\FastReport.Editor.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Classes.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Danfe.Base.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Utils.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Classes.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Danfe.Base.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Utils.pdb
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.csprojResolveAssemblyReference.cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.g.resources
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.Properties.Resources.resources
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.csproj.GenerateResource.Cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.csproj.CoreCompileInputs.cache
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.dll
+E:\Disco C\Usuario\Desktop\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\Dlls\FastReport.Bars.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\Dlls\FastReport.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\Dlls\FastReport.Editor.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Danfe.Fast.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Danfe.Fast.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\FastReport.Bars.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\FastReport.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\FastReport.Editor.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Classes.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Danfe.Base.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Utils.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Classes.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Danfe.Base.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\bin\Release\NFe.Utils.pdb
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.csprojResolveAssemblyReference.cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.g.resources
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.Properties.Resources.resources
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.csproj.GenerateResource.Cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.csproj.CoreCompileInputs.cache
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.dll
+C:\Users\EduardoMichelon\Documents\Visual Studio 2015\Projects\Zeus.Net.NFe.NFCe-master\NFe.Danfe.Fast\obj\Release\NFe.Danfe.Fast.pdb
